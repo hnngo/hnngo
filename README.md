@@ -3,10 +3,6 @@
 ### Hi there 👋
 🔭 I’m currently working on Frontend and Cloud technologies<br>🌱 I’m currently learning DevOps tools such as k8s, Ansible, and Terraform <br>👯 I’m looking for a fulltime Software Engineer role based in Canada 🇨🇦<br>
 
-### 📫 How to reach me:
-Email: ngohuynhnhan@gmai.com   
-Linkedin: https://www.linkedin.com/in/ngohuynhnhan/
-
 ### ⚡ Stats:
 ![](https://github-readme-stats.vercel.app/api?username=hnngo&theme=radical&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=hnngo&theme=radical&hide_border=false)<br/>
